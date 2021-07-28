@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Kotlin",
+    "description": "Kotlis is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/kotlin.png"
+    
+  },
+  {
+    "name": "Java",
+    "description": "Java is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/java.png"
+
+    
+  },
+  {
+    "name": "Pyhton",
+    "description": "Python is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/python.png"
+
+    
+  },
+  {
+    "name": "Javascript",
+    "description": "Javascript is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/js.png"
+
+  },
+  {
+    "name": "C#",
+    "description": "C# is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/cs.png"
+
+    
+  },
+  {
+    "name": "C++",
+    "description": "C++ is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/cplus.png"
+    
+  }
+]
