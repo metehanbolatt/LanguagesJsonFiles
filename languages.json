@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Kotlin",
+    "description": "Kotlis is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/kotlin.png"
+    
+  },
+  {
+    "name": "Java",
+    "description": "Java is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/java.png"
+
+    
+  },
+  {
+    "name": "Pyhton",
+    "description": "Python is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/python.png"
+
+    
+  },
+  {
+    "name": "Javascript",
+    "description": "Javascript is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/js.png"
+
+  },
+  {
+    "name": "C#",
+    "description": "C# is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/cs.png"
+
+    
+  },
+  {
+    "name": "R",
+    "description": "R is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/r.png"
+    
+  },
+  {
+    "name": "Assembly",
+    "description": "Assembly is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/asm.png"
+    
+  },
+  {
+    "name": "Dart"
+    "description": "Dart is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/dart.png"
+    
+  },
+  {
+    "name": "Go"
+    "description": "Go is the best programming languages",
+    "icon": "https://raw.githubusercontent.com/metehanie/LanguagesJsonFiles/main/go.png"
+    
+  }
+]
